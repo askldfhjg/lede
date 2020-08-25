@@ -1,0 +1,6 @@
+[submodule "package/kenzol8/package"]
+	path = package/kenzol8/package
+	url = ../../kenzok8/openwrt-packages.git
+[submodule "package/kenzol8/small"]
+	path = package/kenzol8/small
+	url = ../../kenzok8/small.git
